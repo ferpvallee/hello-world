@@ -10,7 +10,7 @@ public class SimpleFileReadScanner {
     public static void main(String[] args) {
         
        
-      System.out.println("Fernando test");
+      System.out.println("Fernando test2");
         
         
     }
